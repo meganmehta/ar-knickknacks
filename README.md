@@ -9,15 +9,15 @@ After these softwares are downloaded, clone this repo to whatever location you w
 
 ```
 cd 
-git clone [https://github.com/meganmehta/chicago-taxi.git](https://github.com/meganmehta/mehta.megan.428project1.git)
+git clone https://github.com/meganmehta/mehta.megan.428project1.git
 ```
 After cloning, open this project file within Unity Hub (this will automatically open in Unity). 
 
 Also, you will need to construct your own physical cubes! Download the CubesforVuphoria.zip file and print out the sheets, construct the cube using scissors and tape/glue.
 
 You will also need to create a [Vuforia Developer account](https://developer.vuforia.com/). Create a free account and get an App License key. To do this, 
-go to 'Develop' -> 'License Manager' and click 'Get Development Key'. This will create a new license key. Then copy this key, and go into Unity. In Unity, 
-click 'Window' -> 'Vuforia Configuration' and paste the key. 
+go to '''Develop''' -> '''License Manager''' and click '''Get Development Key'''. This will create a new license key. Then copy this key, and go into Unity. In Unity, 
+click '''Window''' -> '''Vuforia Configuration''' and paste the key. 
 
 Once Vuforia has been configured and you have your physical cubes, you should be ready to run everything. Click the play button in the center within Unity to run 
 the application. After that, you should see the cubes. It should look something like this...
