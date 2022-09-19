@@ -20,7 +20,7 @@ go to `Develop` -> `License Manager` and click `Get Development Key`. This will 
 click `Window` -> `Vuforia Configuration` and paste the key. 
 
 Once Vuforia has been configured and you have your physical cubes, you should be ready to run everything. Click the `Play` button in the center within Unity to run 
-the application. After that, you should see the cubes. It should look something like this...
+the application. Hold up the physical cubes to the webcam, and you should see the digital cubes pop up. It should look something like this...
 
 <img width="401" alt="image1" src="https://user-images.githubusercontent.com/29783726/191116021-f4cd7a9b-7920-4e66-9a71-7bc06a0438c9.png">
 
