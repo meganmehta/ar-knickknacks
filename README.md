@@ -16,13 +16,13 @@ After cloning, open this project file within Unity Hub (this will automatically 
 Also, you will need to construct your own physical cubes! Download the CubesforVuphoria.zip file and print out the sheets, construct the cube using scissors and tape/glue.
 
 You will also need to create a [Vuforia Developer account](https://developer.vuforia.com/). Create a free account and get an App License key. To do this, 
-go to '''Develop''' -> '''License Manager''' and click '''Get Development Key'''. This will create a new license key. Then copy this key, and go into Unity. In Unity, 
-click '''Window''' -> '''Vuforia Configuration''' and paste the key. 
+go to `Develop` -> `License Manager` and click `Get Development Key`. This will create a new license key. Then copy this key, and go into Unity. In Unity, 
+click `Window` -> `Vuforia Configuration` and paste the key. 
 
-Once Vuforia has been configured and you have your physical cubes, you should be ready to run everything. Click the play button in the center within Unity to run 
+Once Vuforia has been configured and you have your physical cubes, you should be ready to run everything. Click the `Play` button in the center within Unity to run 
 the application. After that, you should see the cubes. It should look something like this...
 
 <img width="401" alt="image1" src="https://user-images.githubusercontent.com/29783726/191116021-f4cd7a9b-7920-4e66-9a71-7bc06a0438c9.png">
 
 If you'd like to read more about the project details, check out
-the documentation [here]((https://mmehta25.people.uic.edu/428p1.html)).
+the documentation [here](https://mmehta25.people.uic.edu/428p1.html).
