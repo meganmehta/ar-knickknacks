@@ -1,5 +1,3 @@
-# CS 428 Project 1 - Around the World 
-
 This code repository contains a folder with all of the code necessary to run this project. Before cloning this repository, make sure you have the following downloaded:
 - [Unity 2021.3.6f1](https://unity3d.com/unity/whats-new/2021.3.6)
 - [Unity Hub](https://unity3d.com/get-unity/download)
@@ -25,4 +23,4 @@ the application. Hold up the physical cubes to the webcam, and you should see th
 <img width="401" alt="image1" src="https://user-images.githubusercontent.com/29783726/191116021-f4cd7a9b-7920-4e66-9a71-7bc06a0438c9.png">
 
 If you'd like to read more about the project details, check out
-the documentation [here](https://mmehta25.people.uic.edu/428p1.html).
+the documentation [here](https://mmehta25.people.uic.edu/428p1.html). This was coded for CS 428 in Fall 2022.
