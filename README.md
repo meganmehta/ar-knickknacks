@@ -7,7 +7,7 @@ After these softwares are downloaded, clone this repo to whatever location you w
 
 ```
 cd 
-git clone https://github.com/meganmehta/mehta.megan.428project1.git
+git clone https://github.com/meganmehta/ar-knickknacks.git
 ```
 After cloning, open this project file within Unity Hub (this will automatically open in Unity). 
 
